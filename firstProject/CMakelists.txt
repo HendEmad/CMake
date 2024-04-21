@@ -1,0 +1,10 @@
+# Specify the minimal version we want our project to support
+cmake_minimum_required(VERSION 3.5)
+project(HelloApp  # app name
+        VERSION 0.0.1  # app versio
+        DESCRIPTION "The leading Hello world App" # description of the project
+        LANGUAGES CXX)  # project languages, here cxx means c++
+        
+# App name which should be a binary file, and then specify the source code file
+add_executable(HelloAppBinary main.cpp)
+target_compile_features(HelloAppBinary PRIVATE)
