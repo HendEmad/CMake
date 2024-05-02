@@ -1,6 +1,3 @@
-#ifndef DOG_H
-#define DOG_H
-
 #include<string>
 #include<iostream>
 using namespace std;
@@ -26,5 +23,3 @@ public:
         cout << "Dog [name: " << dog_name << " ]" << endl;
     }
 };
-
-#endif 
