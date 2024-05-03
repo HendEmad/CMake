@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.5)
+project(rooster)
+
+add_subdirectory(src/math)
+add_subdirectory(src/stats)
+
+#rooster (binart executable target)
+add_executable(rooster src/main.cpp)
+target_link_libraries(rooster PUBLIC libstats)
