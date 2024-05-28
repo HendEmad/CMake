@@ -1,3 +1,12 @@
+#[==[
+    . Using doxygen to write documentation
+    . There are two approaches: 
+        1. Manually dealing with  the Dyxyfile and calling doxygen from it.
+        2. Using the built-in doxygen module in CMake.
+    . This project will explore option 1.
+
+#]==]
+
 cmake_minimum_required(VERSION 3.20)
 project(calcApp)
 enable_testing()
