@@ -1,0 +1,23 @@
+{
+  "name": "rooster",
+  "version-semver": "0.1.0",
+  "dependencies": [
+    {
+      "name": "fmt",
+      "version>=": "10.2.1#1"
+    }
+  ],
+  "default-features": [],
+  "features": {
+    "test": {
+      "description": "Dependencies for testing",
+      "dependencies": [
+        {
+          "name": "catch2",
+          "version>=": "3.5.3"
+        }
+      ]
+    }
+  },
+  "builtin-baseline": "fc6345e114c2e2c4f9714037340ccb08326b3e8c"
+}
