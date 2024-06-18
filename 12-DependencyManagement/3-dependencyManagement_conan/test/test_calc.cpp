@@ -1,5 +1,5 @@
 #include <catch2/catch_test_macros.hpp>
-#include "C:\Users\Data-DCS\CMake\12-DependencyManagement\2-dependencyManagement_vcpkg\src\Calculatr.h"
+#include "src/Calculatr.h"
 
 TEST_CASE("CalculatorTest - Add", "[Calculator]") {
     Calculator calc;

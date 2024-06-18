@@ -1,4 +1,4 @@
-#include "C:\Users\Data-DCS\CMake\8-CustomTargets-clangFormat\src\include\person.h"
+#include "src/include/person.h"
 
 Person::Person(const std::string& name, int age) : name(name), age(age) {}
 

@@ -2,7 +2,7 @@
 #include <string>
 #include <sstream>
 #include <iostream>
-#include "C:\Users\Data-DCS\CMake\12-Testing_MainFunction\src\calculator.h"
+#include "src/calculator.h"
 using namespace std;
 
 extern int run_app(int argc, char** argv);

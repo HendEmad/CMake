@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "C:\Users\Data-DCS\CMake\12-DependencyManagement\1-CPM\src\Calculatr.h"
+#include "src/Calculatr.h"
 
 int run_app (int agc, char** argv) {
     Calculator calc;

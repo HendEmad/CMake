@@ -1,5 +1,5 @@
 #include <iostream>
-#include "C:\Users\Data-DCS\CMake\8-CustomTargets-clangFormat\src\include\person.h"
+#include "src/include/person.h"
 
 int main() {
   Person p("John", 42);

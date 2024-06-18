@@ -3,7 +3,7 @@
 #include <sstream>
 #include <iostream>
 
-#include "C:\Users\Data-DCS\CMake\12-DependencyManagement\2-dependencyManagement_vcpkg\src\Calculatr.h"
+#include "src/Calculatr.h"
 
 extern int run_app(int argc, char** argv);
 

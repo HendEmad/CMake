@@ -1,5 +1,5 @@
 #include <catch2/catch_test_macros.hpp>
-#include "C:\Users\Data-DCS\CMake\10-Testing_GoogleTest\src\calculator.h"
+#include "src/calculator.h"
 
 TEST_CASE("CalculatorTest - Add", "[Calculator]") {
     calculator calc;

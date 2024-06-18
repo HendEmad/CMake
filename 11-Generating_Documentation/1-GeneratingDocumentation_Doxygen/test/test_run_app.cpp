@@ -2,7 +2,7 @@
 #include <string>
 #include <sstream>
 #include <iostream>
-#include "C:\Users\Data-DCS\CMake\13-GeneratingDocumentation_Doxygen\src\calculator.h"
+#include "src/calculator.h"
 
 extern int run_app(int argc, char** argv);
 

@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "C:\Users\Data-DCS\CMake\10-Testing_GoogleTest\src\calculator.h"
+#include "src/calculator.h"
 
 TEST(calculatrTest, Add) {
     calculator calc;

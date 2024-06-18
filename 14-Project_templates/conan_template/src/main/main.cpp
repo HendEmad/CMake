@@ -1,4 +1,4 @@
-#include "C:\Users\Data-DCS\CMake\14-Project_templates\conan_template\src\core\core.h"
+#include "core/core.h"
 #include <SFML/Graphics.hpp>
 
 /**

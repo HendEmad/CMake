@@ -1,4 +1,4 @@
-#include "C:\Users\Data-DCS\CMake\12-DependencyManagement\1-CPM\src\Calculatr.h"
+#include "src/Calculatr.h"
 
 int Calculator::add (int a, int b) {
     return a + b;

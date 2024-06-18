@@ -6,8 +6,8 @@
 
 // Include necessary headers from other libraries
 // #include "arithmetic.h"
-#include"C:\Users\Data-DCS\CMake\14-Project_templates\VCPKG_template\src\lib1\lib1.h"
-#include"C:\Users\Data-DCS\CMake\14-Project_templates\VCPKG_template\src\lib2\lib2.h"
+#include"VCPKG_template/src/lib1/lib1.h"
+#include"VCPKG_template/src/lib2/lib2.h"
 
 namespace core {
 
